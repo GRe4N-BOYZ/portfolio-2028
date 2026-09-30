@@ -9,7 +9,7 @@
 3×3×3の立体空間を利用したブラウザゲーム。
 
 - [Summary](./work01/summary.pdf)
-- [Movie](./work01/movie/demo.mp4)
+- [Movie](https://youtu.be/BtYBroIK5Ck)
 - [Source Code](https：//github.com/GRe４N－BOYZ/tic－tac－toe－３d)
 - [Play](https://tic-tac-toe-3d-peach.vercel.app/)
 
@@ -18,7 +18,7 @@
 Unity / C#で開発している3Dストラテジーボードゲーム。
 
 - [Summary](./work02/summary.pdf)
-- [Movie](./work02/movie/demo.mp4)
+- [Movie](https://youtu.be/4lc8T3m-znc)
 - [Source Code](https://github.com/GRe4N-BOYZ/Catan_3D)
 
 ### Work 03 - FitMeal AI
@@ -26,5 +26,5 @@ Unity / C#で開発している3Dストラテジーボードゲーム。
 Flutter / Dartで開発している筋トレ・食事管理アプリ。
 
 - [Summary](./work03/summary.pdf)
-- [Movie](./work03/movie/demo.mp4)
+- [Movie](https://youtu.be/HQrxs3f4vPk)
 - [Source Code](https://github.com/GRe4N-BOYZ/fitmeal_ai)
