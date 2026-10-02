@@ -30,4 +30,4 @@ Flutter / Dartで開発している筋トレ・食事管理アプリ。
 - [Summary](./work03/summary.pdf)
 - [Movie](https://youtu.be/HQrxs3f4vPk)
 - [Source Code](https://github.com/GRe4N-BOYZ/fitmeal_ai)
-- [bin](./work03/bin/fitmeal.apk)
+- [bin](./work03/bin/fitmeal_ai.apk)
