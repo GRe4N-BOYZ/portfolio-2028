@@ -10,7 +10,7 @@
 
 - [Summary](./work01/summary.pdf)
 - [Movie](https://youtu.be/BtYBroIK5Ck)
-- [Source Code](https：//github.com/GRe４N－BOYZ/tic－tac－toe－3d)
+- [Source Code](https://github.com/GRe4N-BOYZ/tic-tac-toe-3d)
 - [Play](https://tic-tac-toe-3d-peach.vercel.app/)
 
 ### Work 02 - Frontier Conquest 3D
